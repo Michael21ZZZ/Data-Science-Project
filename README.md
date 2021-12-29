@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Science Projects
 Hi! Welcome to Michael's github repository. My name is Ruoyu (Michael) Zhang and I am a graduate student at Heinz College, Carnegie Mellon University. I am currently seeking for 2022 summer internship for data scientist and data analyst.
 
 ## Projects
