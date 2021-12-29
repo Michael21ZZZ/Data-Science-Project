@@ -9,8 +9,10 @@ This project aims to predict whether people will have stroke based on historical
 - Predict the stroke outcome
 
 ### Python
-#### [Spotify Music Recommendation]()
+#### [Spotify Music Recommendation](https://github.com/Michael21ZZZ/Data-Science-Project/blob/main/Music_Miner_Michael.ipynb)
 The music industry has a well-developed market with global annual revenue of around $15 billion. The recording industry is highly competitive and is dominated by three big production companies which make up nearly 82\% of the total annual album sales. In this project, we are trying to explore whether there are any country-specific music preferences for popular songs in Spotify.
+
+This is my part of Data Mining Final Project. You may find the presentation to the project [here](https://youtu.be/iMWCLRqX8Bc).
 
 ## Contact
 Here's my linkedin page: https://www.linkedin.com/in/ruoyumichael/. Feel free to contact me!
