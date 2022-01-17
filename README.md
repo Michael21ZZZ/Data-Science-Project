@@ -16,14 +16,14 @@ This is a individual final project for Programming R for Analytics. In this proj
 The music industry has a well-developed market with global annual revenue of around $15 billion. The recording industry is highly competitive and is dominated by three big production companies which make up nearly 82\% of the total annual album sales. In this project, we are trying to explore whether there are any country-specific music preferences for popular songs in Spotify.
 
 This is a group final project for Data Mining. The presentation video is [here](https://youtu.be/iMWCLRqX8Bc).In this project, my contribution includes:
+- 
 
-### [EasyApply College Application]()()
+### [EasyApply College Application](https://github.com/Michael21ZZZ/Data-Science-Project/tree/main/EasyApply) (Python|Web Scrape)
 College Admission could be time-consuming and troublesome due to overwhelming information. Besides, it also takes time to compare different colleges since there are multiple dimensions. Easy Apply is a product that helps college applicants find the universities they desire and compare colleges based on multiple dimensions. 
 
-This is a group final project for Data Focused Python. The presentation video is [here](https://youtu.be/iMWCLRqX8Bc).In this project, my contribution includes:
+This is a group final project for Data Focused Python. The presentation video is [here](https://www.youtube.com/watch?v=HFSpSDBvYP4).In this project, my contribution includes:
 - Scraped web data about cost of living in US cities with BeautifulSoup and conducted data merging and data cleaning
 - Implemented the filter function based on rank, living cost and location
-
 
 <!---
 Michael21ZZZ/Michael21ZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
