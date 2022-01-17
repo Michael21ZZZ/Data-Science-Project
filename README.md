@@ -19,12 +19,19 @@ This is a group final project for Data Mining. The presentation video is [here](
 - Applied Naive Bayes to conduct contry-wise classification and use k-means for clustering
 - Used Principal Component Analysis and Feature Selectionn to discover specific features for different types of countries
 
-### [EasyApply College Application](https://github.com/Michael21ZZZ/Data-Science-Project/tree/main/EasyApply) (Python|Web Scrape)
+### [EasyApply College Application](https://github.com/Michael21ZZZ/Data-Science-Project/tree/main/EasyApply) (Python|Data Visulization|Web Scrape)
 College Admission could be time-consuming and troublesome due to overwhelming information. Besides, it also takes time to compare different colleges since there are multiple dimensions. Easy Apply is a product that helps college applicants find the universities they desire and compare colleges based on multiple dimensions. 
 
 This is a group final project for Data Focused Python. The presentation video is [here](https://www.youtube.com/watch?v=HFSpSDBvYP4).In this project, my contribution includes:
 - Scraped web data about cost of living in US cities with BeautifulSoup and conducted data merging and data cleaning
 - Implemented the filter function based on rank, living cost and location
+
+### [Graduate School Admission]()(R|Data Visualization|Machine Learning)
+In the process of applying to graduate school, various indicators of the applicant will have an impact on the probability of admission, and will also determine the relative position of the applicant among the candidates. Based on graduate admission data from Kaggle, this project analyzes the importance ranking of admission indicators, and divides the degree of excellence of applicants. 
+
+This is a individual final project for Multivariable Statistics Analysis. In this project, I mainly accomplish:
+-	Employed Principal Component Analysis and Factor Analysis to unearth critical parameters for graduate school admission and their correlation in R based on a Kaggle dataset
+-	Applied Hierarchical Clustering to group applicants with a similar background and separated applicants with high chances of admission using Linear Discriminant Analysis
 
 <!---
 Michael21ZZZ/Michael21ZZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
