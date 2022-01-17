@@ -1,0 +1,1705 @@
+city,date,weathers
+Cambridge,1/15/20,7
+Cambridge,2/15/20,-4
+Cambridge,3/15/20,4
+Cambridge,4/15/20,8
+Cambridge,5/15/20,16
+Cambridge,6/15/20,19
+Cambridge,7/15/20,21
+Cambridge,8/15/20,21
+Cambridge,9/15/20,17
+Cambridge,10/15/20,18
+Cambridge,11/15/20,7
+Cambridge,12/15/20,-1
+Stanford,1/15/20,8
+Stanford,2/15/20,15
+Stanford,3/15/20,9
+Stanford,4/15/20,20
+Stanford,5/15/20,17
+Stanford,6/15/20,18
+Stanford,7/15/20,21
+Stanford,8/15/20,27
+Stanford,9/15/20,23
+Stanford,10/15/20,27
+Stanford,11/15/20,15
+Stanford,12/15/20,11
+Pasadena,1/15/20,22
+Pasadena,2/15/20,13
+Pasadena,3/15/20,24
+Pasadena,4/15/20,17
+Pasadena,5/15/20,29
+Pasadena,6/15/20,30
+Pasadena,7/15/20,32
+Pasadena,8/15/20,31
+Pasadena,9/15/20,30
+Pasadena,10/15/20,27
+Pasadena,11/15/20,22
+Pasadena,12/15/20,12
+Chicago,1/15/20,2
+Chicago,2/15/20,-4
+Chicago,3/15/20,2
+Chicago,4/15/20,3
+Chicago,5/15/20,19
+Chicago,6/15/20,18
+Chicago,7/15/20,26
+Chicago,8/15/20,26
+Chicago,9/15/20,20
+Chicago,10/15/20,11
+Chicago,11/15/20,6
+Chicago,12/15/20,-1
+Philadelphia,1/15/20,10
+Philadelphia,2/15/20,0
+Philadelphia,3/15/20,8
+Philadelphia,4/15/20,9
+Philadelphia,5/15/20,24
+Philadelphia,6/15/20,22
+Philadelphia,7/15/20,30
+Philadelphia,8/15/20,25
+Philadelphia,9/15/20,22
+Philadelphia,10/15/20,20
+Philadelphia,11/15/20,12
+Philadelphia,12/15/20,2
+New Haven,1/15/20,6
+New Haven,2/15/20,-6
+New Haven,3/15/20,5
+New Haven,4/15/20,7
+New Haven,5/15/20,18
+New Haven,6/15/20,18
+New Haven,7/15/20,23
+New Haven,8/15/20,23
+New Haven,9/15/20,15
+New Haven,10/15/20,18
+New Haven,11/15/20,10
+New Haven,12/15/20,0
+Durham,1/15/20,15
+Durham,2/15/20,3
+Durham,3/15/20,9
+Durham,4/15/20,7
+Durham,5/15/20,22
+Durham,6/15/20,16
+Durham,7/15/20,30
+Durham,8/15/20,28
+Durham,9/15/20,21
+Durham,10/15/20,20
+Durham,11/15/20,18
+Durham,12/15/20,4
+New York,1/15/20,8
+New York,2/15/20,-2
+New York,3/15/20,8
+New York,4/15/20,9
+New York,5/15/20,23
+New York,6/15/20,20
+New York,7/15/20,25
+New York,8/15/20,25
+New York,9/15/20,18
+New York,10/15/20,20
+New York,11/15/20,12
+New York,12/15/20,1
+Princeton,1/15/20,8
+Princeton,2/15/20,-2
+Princeton,3/15/20,8
+Princeton,4/15/20,8
+Princeton,5/15/20,23
+Princeton,6/15/20,21
+Princeton,7/15/20,26
+Princeton,8/15/20,23
+Princeton,9/15/20,19
+Princeton,10/15/20,19
+Princeton,11/15/20,10
+Princeton,12/15/20,0
+Ithaca,1/15/20,3
+Ithaca,2/15/20,-10
+Ithaca,3/15/20,-1
+Ithaca,4/15/20,3
+Ithaca,5/15/20,16
+Ithaca,6/15/20,16
+Ithaca,7/15/20,21
+Ithaca,8/15/20,21
+Ithaca,9/15/20,12
+Ithaca,10/15/20,16
+Ithaca,11/15/20,6
+Ithaca,12/15/20,-5
+Ann Arbor,1/15/20,0
+Ann Arbor,2/15/20,-6
+Ann Arbor,3/15/20,2
+Ann Arbor,4/15/20,2
+Ann Arbor,5/15/20,20
+Ann Arbor,6/15/20,17
+Ann Arbor,7/15/20,23
+Ann Arbor,8/15/20,23
+Ann Arbor,9/15/20,16
+Ann Arbor,10/15/20,11
+Ann Arbor,11/15/20,7
+Ann Arbor,12/15/20,-3
+Baltimore,1/15/20,10
+Baltimore,2/15/20,-1
+Baltimore,3/15/20,8
+Baltimore,4/15/20,9
+Baltimore,5/15/20,24
+Baltimore,6/15/20,21
+Baltimore,7/15/20,29
+Baltimore,8/15/20,23
+Baltimore,9/15/20,19
+Baltimore,10/15/20,20
+Baltimore,11/15/20,13
+Baltimore,12/15/20,2
+Evanston,1/15/20,2
+Evanston,2/15/20,-4
+Evanston,3/15/20,2
+Evanston,4/15/20,3
+Evanston,5/15/20,19
+Evanston,6/15/20,17
+Evanston,7/15/20,27
+Evanston,8/15/20,26
+Evanston,9/15/20,21
+Evanston,10/15/20,11
+Evanston,11/15/20,6
+Evanston,12/15/20,-1
+Berkeley,1/15/20,9
+Berkeley,2/15/20,15
+Berkeley,3/15/20,10
+Berkeley,4/15/20,19
+Berkeley,5/15/20,17
+Berkeley,6/15/20,19
+Berkeley,7/15/20,19
+Berkeley,8/15/20,25
+Berkeley,9/15/20,21
+Berkeley,10/15/20,28
+Berkeley,11/15/20,15
+Berkeley,12/15/20,11
+Los Angeles,1/15/20,14
+Los Angeles,2/15/20,18
+Los Angeles,3/15/20,14
+Los Angeles,4/15/20,24
+Los Angeles,5/15/20,23
+Los Angeles,6/15/20,24
+Los Angeles,7/15/20,25
+Los Angeles,8/15/20,33
+Los Angeles,9/15/20,32
+Los Angeles,10/15/20,30
+Los Angeles,11/15/20,24
+Los Angeles,12/15/20,17
+San Diego,1/15/20,15
+San Diego,2/15/20,16
+San Diego,3/15/20,15
+San Diego,4/15/20,22
+San Diego,5/15/20,20
+San Diego,6/15/20,21
+San Diego,7/15/20,23
+San Diego,8/15/20,28
+San Diego,9/15/20,28
+San Diego,10/15/20,27
+San Diego,11/15/20,22
+San Diego,12/15/20,18
+Pittsburgh,1/15/20,7
+Pittsburgh,2/15/20,-2
+Pittsburgh,3/15/20,5
+Pittsburgh,4/15/20,5
+Pittsburgh,5/15/20,21
+Pittsburgh,6/15/20,20
+Pittsburgh,7/15/20,28
+Pittsburgh,8/15/20,19
+Pittsburgh,9/15/20,18
+Pittsburgh,10/15/20,16
+Pittsburgh,11/15/20,10
+Pittsburgh,12/15/20,-1
+Providence,1/15/20,7
+Providence,2/15/20,-4
+Providence,3/15/20,4
+Providence,4/15/20,6
+Providence,5/15/20,18
+Providence,6/15/20,19
+Providence,7/15/20,21
+Providence,8/15/20,22
+Providence,9/15/20,18
+Providence,10/15/20,17
+Providence,11/15/20,8
+Providence,12/15/20,-1
+Austin,1/15/20,21
+Austin,2/15/20,12
+Austin,3/15/20,22
+Austin,4/15/20,15
+Austin,5/15/20,27
+Austin,6/15/20,30
+Austin,7/15/20,33
+Austin,8/15/20,36
+Austin,9/15/20,29
+Austin,10/15/20,28
+Austin,11/15/20,19
+Austin,12/15/20,12
+Madison,1/15/20,-5
+Madison,2/15/20,-5
+Madison,3/15/20,0
+Madison,4/15/20,0
+Madison,5/15/20,17
+Madison,6/15/20,17
+Madison,7/15/20,22
+Madison,8/15/20,20
+Madison,9/15/20,19
+Madison,10/15/20,7
+Madison,11/15/20,2
+Madison,12/15/20,-7
+Champaign,1/15/20,6
+Champaign,2/15/20,-3
+Champaign,3/15/20,4
+Champaign,4/15/20,3
+Champaign,5/15/20,22
+Champaign,6/15/20,18
+Champaign,7/15/20,24
+Champaign,8/15/20,24
+Champaign,9/15/20,18
+Champaign,10/15/20,11
+Champaign,11/15/20,8
+Champaign,12/15/20,-1
+Seattle,1/15/20,-4
+Seattle,2/15/20,6
+Seattle,3/15/20,2
+Seattle,4/15/20,15
+Seattle,5/15/20,17
+Seattle,6/15/20,14
+Seattle,7/15/20,23
+Seattle,8/15/20,24
+Seattle,9/15/20,24
+Seattle,10/15/20,13
+Seattle,11/15/20,9
+Seattle,12/15/20,6
+Atlanta,1/15/20,18
+Atlanta,2/15/20,7
+Atlanta,3/15/20,15
+Atlanta,4/15/20,13
+Atlanta,5/15/20,23
+Atlanta,6/15/20,26
+Atlanta,7/15/20,32
+Atlanta,8/15/20,30
+Atlanta,9/15/20,23
+Atlanta,10/15/20,23
+Atlanta,11/15/20,17
+Atlanta,12/15/20,8
+Houston,1/15/20,22
+Houston,2/15/20,14
+Houston,3/15/20,24
+Houston,4/15/20,18
+Houston,5/15/20,29
+Houston,6/15/20,31
+Houston,7/15/20,32
+Houston,8/15/20,31
+Houston,9/15/20,31
+Houston,10/15/20,28
+Houston,11/15/20,22
+Houston,12/15/20,13
+University Park,1/15/20,24
+University Park,2/15/20,20
+University Park,3/15/20,25
+University Park,4/15/20,28
+University Park,5/15/20,25
+University Park,6/15/20,28
+University Park,7/15/20,31
+University Park,8/15/20,31
+University Park,9/15/20,29
+University Park,10/15/20,27
+University Park,11/15/20,26
+University Park,12/15/20,20
+Chapel Hill,1/15/20,15
+Chapel Hill,2/15/20,3
+Chapel Hill,3/15/20,9
+Chapel Hill,4/15/20,7
+Chapel Hill,5/15/20,22
+Chapel Hill,6/15/20,16
+Chapel Hill,7/15/20,30
+Chapel Hill,8/15/20,27
+Chapel Hill,9/15/20,21
+Chapel Hill,10/15/20,20
+Chapel Hill,11/15/20,18
+Chapel Hill,12/15/20,4
+St. Louis,1/15/20,26
+St. Louis,2/15/20,32
+St. Louis,3/15/20,27
+St. Louis,4/15/20,28
+St. Louis,5/15/20,29
+St. Louis,6/15/20,32
+St. Louis,7/15/20,28
+St. Louis,8/15/20,29
+St. Louis,9/15/20,33
+St. Louis,10/15/20,33
+St. Louis,11/15/20,32
+St. Louis,12/15/20,26
+Boston,1/15/20,7
+Boston,2/15/20,-5
+Boston,3/15/20,4
+Boston,4/15/20,8
+Boston,5/15/20,16
+Boston,6/15/20,18
+Boston,7/15/20,21
+Boston,8/15/20,21
+Boston,9/15/20,16
+Boston,10/15/20,18
+Boston,11/15/20,8
+Boston,12/15/20,-1
+West Lafayette,1/15/20,5
+West Lafayette,2/15/20,-5
+West Lafayette,3/15/20,4
+West Lafayette,4/15/20,2
+West Lafayette,5/15/20,22
+West Lafayette,6/15/20,17
+West Lafayette,7/15/20,23
+West Lafayette,8/15/20,24
+West Lafayette,9/15/20,16
+West Lafayette,10/15/20,12
+West Lafayette,11/15/20,8
+West Lafayette,12/15/20,-1
+Columbus,1/15/20,8
+Columbus,2/15/20,-4
+Columbus,3/15/20,4
+Columbus,4/15/20,5
+Columbus,5/15/20,22
+Columbus,6/15/20,20
+Columbus,7/15/20,26
+Columbus,8/15/20,24
+Columbus,9/15/20,19
+Columbus,10/15/20,14
+Columbus,11/15/20,11
+Columbus,12/15/20,-1
+Davis,1/15/20,7
+Davis,2/15/20,13
+Davis,3/15/20,9
+Davis,4/15/20,17
+Davis,5/15/20,20
+Davis,6/15/20,25
+Davis,7/15/20,29
+Davis,8/15/20,34
+Davis,9/15/20,27
+Davis,10/15/20,28
+Davis,11/15/20,15
+Davis,12/15/20,9
+Santa Barbara,1/15/20,12
+Santa Barbara,2/15/20,15
+Santa Barbara,3/15/20,12
+Santa Barbara,4/15/20,19
+Santa Barbara,5/15/20,23
+Santa Barbara,6/15/20,23
+Santa Barbara,7/15/20,22
+Santa Barbara,8/15/20,32
+Santa Barbara,9/15/20,28
+Santa Barbara,10/15/20,27
+Santa Barbara,11/15/20,20
+Santa Barbara,12/15/20,14
+Rochester,1/15/20,3
+Rochester,2/15/20,-7
+Rochester,3/15/20,-2
+Rochester,4/15/20,3
+Rochester,5/15/20,16
+Rochester,6/15/20,16
+Rochester,7/15/20,22
+Rochester,8/15/20,22
+Rochester,9/15/20,16
+Rochester,10/15/20,15
+Rochester,11/15/20,8
+Rochester,12/15/20,-3
+East Lansing,1/15/20,0
+East Lansing,2/15/20,-7
+East Lansing,3/15/20,1
+East Lansing,4/15/20,2
+East Lansing,5/15/20,19
+East Lansing,6/15/20,16
+East Lansing,7/15/20,23
+East Lansing,8/15/20,23
+East Lansing,9/15/20,15
+East Lansing,10/15/20,10
+East Lansing,11/15/20,5
+East Lansing,12/15/20,-4
+College Park,1/15/20,11
+College Park,2/15/20,1
+College Park,3/15/20,8
+College Park,4/15/20,8
+College Park,5/15/20,24
+College Park,6/15/20,20
+College Park,7/15/20,29
+College Park,8/15/20,23
+College Park,9/15/20,20
+College Park,10/15/20,19
+College Park,11/15/20,13
+College Park,12/15/20,2
+Cleveland,1/15/20,4
+Cleveland,2/15/20,-5
+Cleveland,3/15/20,1
+Cleveland,4/15/20,3
+Cleveland,5/15/20,18
+Cleveland,6/15/20,19
+Cleveland,7/15/20,25
+Cleveland,8/15/20,21
+Cleveland,9/15/20,18
+Cleveland,10/15/20,14
+Cleveland,11/15/20,9
+Cleveland,12/15/20,-2
+College Station,1/15/20,21
+College Station,2/15/20,11
+College Station,3/15/20,23
+College Station,4/15/20,13
+College Station,5/15/20,26
+College Station,6/15/20,27
+College Station,7/15/20,31
+College Station,8/15/20,33
+College Station,9/15/20,27
+College Station,10/15/20,25
+College Station,11/15/20,18
+College Station,12/15/20,11
+Gainesville,1/15/20,23
+Gainesville,2/15/20,15
+Gainesville,3/15/20,25
+Gainesville,4/15/20,21
+Gainesville,5/15/20,25
+Gainesville,6/15/20,28
+Gainesville,7/15/20,31
+Gainesville,8/15/20,31
+Gainesville,9/15/20,27
+Gainesville,10/15/20,27
+Gainesville,11/15/20,24
+Gainesville,12/15/20,17
+Minneapolis,1/15/20,-12
+Minneapolis,2/15/20,-4
+Minneapolis,3/15/20,2
+Minneapolis,4/15/20,0
+Minneapolis,5/15/20,14
+Minneapolis,6/15/20,20
+Minneapolis,7/15/20,25
+Minneapolis,8/15/20,21
+Minneapolis,9/15/20,24
+Minneapolis,10/15/20,6
+Minneapolis,11/15/20,-1
+Minneapolis,12/15/20,-5
+Hanover,1/15/20,11
+Hanover,2/15/20,8
+Hanover,3/15/20,9
+Hanover,4/15/20,9
+Hanover,5/15/20,9
+Hanover,6/15/20,19
+Hanover,7/15/20,15
+Hanover,8/15/20,23
+Hanover,9/15/20,24
+Hanover,10/15/20,9
+Hanover,11/15/20,13
+Hanover,12/15/20,8
+Phoenix,1/15/20,18
+Phoenix,2/15/20,19
+Phoenix,3/15/20,21
+Phoenix,4/15/20,23
+Phoenix,5/15/20,30
+Phoenix,6/15/20,34
+Phoenix,7/15/20,38
+Phoenix,8/15/20,38
+Phoenix,9/15/20,35
+Phoenix,10/15/20,33
+Phoenix,11/15/20,25
+Phoenix,12/15/20,16
+Nashville,1/15/20,17
+Nashville,2/15/20,4
+Nashville,3/15/20,9
+Nashville,4/15/20,11
+Nashville,5/15/20,24
+Nashville,6/15/20,22
+Nashville,7/15/20,31
+Nashville,8/15/20,27
+Nashville,9/15/20,24
+Nashville,10/15/20,20
+Nashville,11/15/20,13
+Nashville,12/15/20,5
+Notre Dame,1/15/20,9
+Notre Dame,2/15/20,11
+Notre Dame,3/15/20,8
+Notre Dame,4/15/20,11
+Notre Dame,5/15/20,10
+Notre Dame,6/15/20,17
+Notre Dame,7/15/20,16
+Notre Dame,8/15/20,20
+Notre Dame,9/15/20,22
+Notre Dame,10/15/20,10
+Notre Dame,11/15/20,13
+Notre Dame,12/15/20,9
+Charlottesville,1/15/20,11
+Charlottesville,2/15/20,0
+Charlottesville,3/15/20,4
+Charlottesville,4/15/20,7
+Charlottesville,5/15/20,23
+Charlottesville,6/15/20,17
+Charlottesville,7/15/20,27
+Charlottesville,8/15/20,22
+Charlottesville,9/15/20,17
+Charlottesville,10/15/20,17
+Charlottesville,11/15/20,11
+Charlottesville,12/15/20,2
+Irvine,1/15/20,15
+Irvine,2/15/20,18
+Irvine,3/15/20,15
+Irvine,4/15/20,23
+Irvine,5/15/20,22
+Irvine,6/15/20,23
+Irvine,7/15/20,23
+Irvine,8/15/20,30
+Irvine,9/15/20,30
+Irvine,10/15/20,29
+Irvine,11/15/20,23
+Irvine,12/15/20,19
+Amherst,1/15/20,4
+Amherst,2/15/20,-7
+Amherst,3/15/20,2
+Amherst,4/15/20,7
+Amherst,5/15/20,17
+Amherst,6/15/20,20
+Amherst,7/15/20,23
+Amherst,8/15/20,22
+Amherst,9/15/20,15
+Amherst,10/15/20,15
+Amherst,11/15/20,5
+Amherst,12/15/20,-3
+Washington D.C.,1/15/20,26
+Washington D.C.,2/15/20,26
+Washington D.C.,3/15/20,26
+Washington D.C.,4/15/20,27
+Washington D.C.,5/15/20,26
+Washington D.C.,6/15/20,27
+Washington D.C.,7/15/20,27
+Washington D.C.,8/15/20,28
+Washington D.C.,9/15/20,29
+Washington D.C.,10/15/20,29
+Washington D.C.,11/15/20,28
+Washington D.C.,12/15/20,27
+Boulder,1/15/20,-1
+Boulder,2/15/20,-3
+Boulder,3/15/20,7
+Boulder,4/15/20,4
+Boulder,5/15/20,14
+Boulder,6/15/20,24
+Boulder,7/15/20,23
+Boulder,8/15/20,27
+Boulder,9/15/20,24
+Boulder,10/15/20,7
+Boulder,11/15/20,5
+Boulder,12/15/20,-4
+New Brunswick,1/15/20,8
+New Brunswick,2/15/20,-2
+New Brunswick,3/15/20,9
+New Brunswick,4/15/20,9
+New Brunswick,5/15/20,23
+New Brunswick,6/15/20,21
+New Brunswick,7/15/20,27
+New Brunswick,8/15/20,25
+New Brunswick,9/15/20,19
+New Brunswick,10/15/20,19
+New Brunswick,11/15/20,11
+New Brunswick,12/15/20,1
+Tucson,1/15/20,16
+Tucson,2/15/20,15
+Tucson,3/15/20,19
+Tucson,4/15/20,21
+Tucson,5/15/20,27
+Tucson,6/15/20,31
+Tucson,7/15/20,32
+Tucson,8/15/20,34
+Tucson,9/15/20,29
+Tucson,10/15/20,29
+Tucson,11/15/20,22
+Tucson,12/15/20,11
+Medford,1/15/20,1
+Medford,2/15/20,5
+Medford,3/15/20,3
+Medford,4/15/20,13
+Medford,5/15/20,15
+Medford,6/15/20,14
+Medford,7/15/20,25
+Medford,8/15/20,32
+Medford,9/15/20,23
+Medford,10/15/20,15
+Medford,11/15/20,9
+Medford,12/15/20,5
+Raleigh,1/15/20,16
+Raleigh,2/15/20,3
+Raleigh,3/15/20,9
+Raleigh,4/15/20,7
+Raleigh,5/15/20,22
+Raleigh,6/15/20,17
+Raleigh,7/15/20,30
+Raleigh,8/15/20,29
+Raleigh,9/15/20,21
+Raleigh,10/15/20,20
+Raleigh,11/15/20,19
+Raleigh,12/15/20,4
+Bloomington,1/15/20,-12
+Bloomington,2/15/20,-3
+Bloomington,3/15/20,2
+Bloomington,4/15/20,0
+Bloomington,5/15/20,14
+Bloomington,6/15/20,20
+Bloomington,7/15/20,24
+Bloomington,8/15/20,21
+Bloomington,9/15/20,24
+Bloomington,10/15/20,6
+Bloomington,11/15/20,-1
+Bloomington,12/15/20,-5
+Miami,1/15/20,23
+Miami,2/15/20,24
+Miami,3/15/20,24
+Miami,4/15/20,28
+Miami,5/15/20,24
+Miami,6/15/20,29
+Miami,7/15/20,30
+Miami,8/15/20,30
+Miami,9/15/20,29
+Miami,10/15/20,29
+Miami,11/15/20,27
+Miami,12/15/20,25
+Honolulu,1/15/20,23
+Honolulu,2/15/20,23
+Honolulu,3/15/20,24
+Honolulu,4/15/20,24
+Honolulu,5/15/20,25
+Honolulu,6/15/20,25
+Honolulu,7/15/20,26
+Honolulu,8/15/20,26
+Honolulu,9/15/20,26
+Honolulu,10/15/20,27
+Honolulu,11/15/20,25
+Honolulu,12/15/20,24
+Blacksburg,1/15/20,10
+Blacksburg,2/15/20,0
+Blacksburg,3/15/20,6
+Blacksburg,4/15/20,5
+Blacksburg,5/15/20,19
+Blacksburg,6/15/20,13
+Blacksburg,7/15/20,25
+Blacksburg,8/15/20,22
+Blacksburg,9/15/20,19
+Blacksburg,10/15/20,17
+Blacksburg,11/15/20,10
+Blacksburg,12/15/20,1
+Santa Cruz,1/15/20,28
+Santa Cruz,2/15/20,30
+Santa Cruz,3/15/20,32
+Santa Cruz,4/15/20,25
+Santa Cruz,5/15/20,22
+Santa Cruz,6/15/20,23
+Santa Cruz,7/15/20,25
+Santa Cruz,8/15/20,30
+Santa Cruz,9/15/20,29
+Santa Cruz,10/15/20,29
+Santa Cruz,11/15/20,30
+Santa Cruz,12/15/20,26
+Ashburn,1/15/20,17
+Ashburn,2/15/20,3
+Ashburn,3/15/20,7
+Ashburn,4/15/20,8
+Ashburn,5/15/20,22
+Ashburn,6/15/20,19
+Ashburn,7/15/20,27
+Ashburn,8/15/20,24
+Ashburn,9/15/20,20
+Ashburn,10/15/20,17
+Ashburn,11/15/20,10
+Ashburn,12/15/20,3
+Salt Lake City,1/15/20,-3
+Salt Lake City,2/15/20,2
+Salt Lake City,3/15/20,11
+Salt Lake City,4/15/20,6
+Salt Lake City,5/15/20,15
+Salt Lake City,6/15/20,21
+Salt Lake City,7/15/20,26
+Salt Lake City,8/15/20,29
+Salt Lake City,9/15/20,26
+Salt Lake City,10/15/20,11
+Salt Lake City,11/15/20,4
+Salt Lake City,12/15/20,-3
+Storrs,1/15/20,5
+Storrs,2/15/20,-5
+Storrs,3/15/20,3
+Storrs,4/15/20,7
+Storrs,5/15/20,18
+Storrs,6/15/20,20
+Storrs,7/15/20,22
+Storrs,8/15/20,22
+Storrs,9/15/20,16
+Storrs,10/15/20,16
+Storrs,11/15/20,7
+Storrs,12/15/20,-2
+Stony Brook,1/15/20,6
+Stony Brook,2/15/20,-5
+Stony Brook,3/15/20,5
+Stony Brook,4/15/20,7
+Stony Brook,5/15/20,17
+Stony Brook,6/15/20,18
+Stony Brook,7/15/20,23
+Stony Brook,8/15/20,23
+Stony Brook,9/15/20,16
+Stony Brook,10/15/20,19
+Stony Brook,11/15/20,12
+Stony Brook,12/15/20,2
+Lawrence,1/15/20,4
+Lawrence,2/15/20,4
+Lawrence,3/15/20,3
+Lawrence,4/15/20,7
+Lawrence,5/15/20,19
+Lawrence,6/15/20,26
+Lawrence,7/15/20,25
+Lawrence,8/15/20,23
+Lawrence,9/15/20,20
+Lawrence,10/15/20,12
+Lawrence,11/15/20,10
+Lawrence,12/15/20,0
+Buffalo,1/15/20,3
+Buffalo,2/15/20,-6
+Buffalo,3/15/20,0
+Buffalo,4/15/20,3
+Buffalo,5/15/20,16
+Buffalo,6/15/20,18
+Buffalo,7/15/20,26
+Buffalo,8/15/20,23
+Buffalo,9/15/20,17
+Buffalo,10/15/20,15
+Buffalo,11/15/20,8
+Buffalo,12/15/20,-3
+Riverside,1/15/20,13
+Riverside,2/15/20,18
+Riverside,3/15/20,13
+Riverside,4/15/20,23
+Riverside,5/15/20,23
+Riverside,6/15/20,25
+Riverside,7/15/20,27
+Riverside,8/15/20,36
+Riverside,9/15/20,34
+Riverside,10/15/20,31
+Riverside,11/15/20,24
+Riverside,12/15/20,16
+Denver,1/15/20,3
+Denver,2/15/20,0
+Denver,3/15/20,9
+Denver,4/15/20,5
+Denver,5/15/20,17
+Denver,6/15/20,28
+Denver,7/15/20,26
+Denver,8/15/20,30
+Denver,9/15/20,27
+Denver,10/15/20,13
+Denver,11/15/20,10
+Denver,12/15/20,-2
+Pullman,1/15/20,-9
+Pullman,2/15/20,2
+Pullman,3/15/20,-2
+Pullman,4/15/20,8
+Pullman,5/15/20,11
+Pullman,6/15/20,9
+Pullman,7/15/20,22
+Pullman,8/15/20,25
+Pullman,9/15/20,24
+Pullman,10/15/20,8
+Pullman,11/15/20,4
+Pullman,12/15/20,-1
+Winston-Salem,1/15/20,14
+Winston-Salem,2/15/20,3
+Winston-Salem,3/15/20,8
+Winston-Salem,4/15/20,9
+Winston-Salem,5/15/20,20
+Winston-Salem,6/15/20,15
+Winston-Salem,7/15/20,28
+Winston-Salem,8/15/20,26
+Winston-Salem,9/15/20,20
+Winston-Salem,10/15/20,18
+Winston-Salem,11/15/20,15
+Winston-Salem,12/15/20,4
+Fort Collins,1/15/20,-3
+Fort Collins,2/15/20,-3
+Fort Collins,3/15/20,7
+Fort Collins,4/15/20,3
+Fort Collins,5/15/20,13
+Fort Collins,6/15/20,24
+Fort Collins,7/15/20,22
+Fort Collins,8/15/20,26
+Fort Collins,9/15/20,24
+Fort Collins,10/15/20,8
+Fort Collins,11/15/20,4
+Fort Collins,12/15/20,-4
+Troy,1/15/20,0
+Troy,2/15/20,-6
+Troy,3/15/20,2
+Troy,4/15/20,3
+Troy,5/15/20,19
+Troy,6/15/20,17
+Troy,7/15/20,26
+Troy,8/15/20,24
+Troy,9/15/20,18
+Troy,10/15/20,13
+Troy,11/15/20,7
+Troy,12/15/20,-3
+New Orleans,1/15/20,23
+New Orleans,2/15/20,13
+New Orleans,3/15/20,24
+New Orleans,4/15/20,17
+New Orleans,5/15/20,26
+New Orleans,6/15/20,29
+New Orleans,7/15/20,29
+New Orleans,8/15/20,30
+New Orleans,9/15/20,25
+New Orleans,10/15/20,25
+New Orleans,11/15/20,22
+New Orleans,12/15/20,12
+Waltham,1/15/20,7
+Waltham,2/15/20,-4
+Waltham,3/15/20,3
+Waltham,4/15/20,8
+Waltham,5/15/20,16
+Waltham,6/15/20,19
+Waltham,7/15/20,21
+Waltham,8/15/20,21
+Waltham,9/15/20,18
+Waltham,10/15/20,17
+Waltham,11/15/20,6
+Waltham,12/15/20,-1
+Iowa City,1/15/20,-1
+Iowa City,2/15/20,-2
+Iowa City,3/15/20,3
+Iowa City,4/15/20,2
+Iowa City,5/15/20,17
+Iowa City,6/15/20,17
+Iowa City,7/15/20,21
+Iowa City,8/15/20,21
+Iowa City,9/15/20,20
+Iowa City,10/15/20,8
+Iowa City,11/15/20,5
+Iowa City,12/15/20,-3
+Golden,1/15/20,24
+Golden,2/15/20,25
+Golden,3/15/20,25
+Golden,4/15/20,29
+Golden,5/15/20,24
+Golden,6/15/20,30
+Golden,7/15/20,31
+Golden,8/15/20,31
+Golden,9/15/20,30
+Golden,10/15/20,29
+Golden,11/15/20,27
+Golden,12/15/20,25
+Tallahassee,1/15/20,22
+Tallahassee,2/15/20,13
+Tallahassee,3/15/20,25
+Tallahassee,4/15/20,18
+Tallahassee,5/15/20,26
+Tallahassee,6/15/20,28
+Tallahassee,7/15/20,31
+Tallahassee,8/15/20,28
+Tallahassee,9/15/20,23
+Tallahassee,10/15/20,23
+Tallahassee,11/15/20,23
+Tallahassee,12/15/20,14
+Columbia,1/15/20,20
+Columbia,2/15/20,7
+Columbia,3/15/20,12
+Columbia,4/15/20,15
+Columbia,5/15/20,24
+Columbia,6/15/20,23
+Columbia,7/15/20,30
+Columbia,8/15/20,31
+Columbia,9/15/20,25
+Columbia,10/15/20,23
+Columbia,11/15/20,20
+Columbia,12/15/20,7
+Richardson,1/15/20,21
+Richardson,2/15/20,10
+Richardson,3/15/20,18
+Richardson,4/15/20,13
+Richardson,5/15/20,26
+Richardson,6/15/20,30
+Richardson,7/15/20,32
+Richardson,8/15/20,34
+Richardson,9/15/20,26
+Richardson,10/15/20,22
+Richardson,11/15/20,16
+Richardson,12/15/20,7
+Newton,1/15/20,6
+Newton,2/15/20,-5
+Newton,3/15/20,3
+Newton,4/15/20,8
+Newton,5/15/20,16
+Newton,6/15/20,19
+Newton,7/15/20,21
+Newton,8/15/20,21
+Newton,9/15/20,18
+Newton,10/15/20,17
+Newton,11/15/20,6
+Newton,12/15/20,-1
+Ames,1/15/20,-5
+Ames,2/15/20,-1
+Ames,3/15/20,2
+Ames,4/15/20,3
+Ames,5/15/20,17
+Ames,6/15/20,20
+Ames,7/15/20,20
+Ames,8/15/20,19
+Ames,9/15/20,22
+Ames,10/15/20,8
+Ames,11/15/20,5
+Ames,12/15/20,-5
+Rolla,1/15/20,12
+Rolla,2/15/20,3
+Rolla,3/15/20,4
+Rolla,4/15/20,8
+Rolla,5/15/20,21
+Rolla,6/15/20,21
+Rolla,7/15/20,27
+Rolla,8/15/20,25
+Rolla,9/15/20,19
+Rolla,10/15/20,12
+Rolla,11/15/20,9
+Rolla,12/15/20,-1
+Detroit,1/15/20,2
+Detroit,2/15/20,-6
+Detroit,3/15/20,2
+Detroit,4/15/20,3
+Detroit,5/15/20,20
+Detroit,6/15/20,18
+Detroit,7/15/20,26
+Detroit,8/15/20,24
+Detroit,9/15/20,19
+Detroit,10/15/20,13
+Detroit,11/15/20,8
+Detroit,12/15/20,-3
+Bethlehem,1/15/20,24
+Bethlehem,2/15/20,24
+Bethlehem,3/15/20,23
+Bethlehem,4/15/20,15
+Bethlehem,5/15/20,13
+Bethlehem,6/15/20,7
+Bethlehem,7/15/20,5
+Bethlehem,8/15/20,16
+Bethlehem,9/15/20,18
+Bethlehem,10/15/20,23
+Bethlehem,11/15/20,23
+Bethlehem,12/15/20,23
+Corvallis,1/15/20,1
+Corvallis,2/15/20,4
+Corvallis,3/15/20,2
+Corvallis,4/15/20,12
+Corvallis,5/15/20,13
+Corvallis,6/15/20,13
+Corvallis,7/15/20,21
+Corvallis,8/15/20,26
+Corvallis,9/15/20,18
+Corvallis,10/15/20,12
+Corvallis,11/15/20,10
+Corvallis,12/15/20,6
+Newark,1/15/20,9
+Newark,2/15/20,-2
+Newark,3/15/20,9
+Newark,4/15/20,9
+Newark,5/15/20,23
+Newark,6/15/20,22
+Newark,7/15/20,26
+Newark,8/15/20,26
+Newark,9/15/20,19
+Newark,10/15/20,20
+Newark,11/15/20,11
+Newark,12/15/20,1
+Athens,1/15/20,9
+Athens,2/15/20,11
+Athens,3/15/20,16
+Athens,4/15/20,15
+Athens,5/15/20,30
+Athens,6/15/20,28
+Athens,7/15/20,26
+Athens,8/15/20,30
+Athens,9/15/20,25
+Athens,10/15/20,22
+Athens,11/15/20,15
+Athens,12/15/20,11
+Knoxville,1/15/20,16
+Knoxville,2/15/20,4
+Knoxville,3/15/20,11
+Knoxville,4/15/20,9
+Knoxville,5/15/20,23
+Knoxville,6/15/20,22
+Knoxville,7/15/20,30
+Knoxville,8/15/20,27
+Knoxville,9/15/20,25
+Knoxville,10/15/20,20
+Knoxville,11/15/20,13
+Knoxville,12/15/20,4
+Lincoln,1/15/20,-5
+Lincoln,2/15/20,3
+Lincoln,3/15/20,2
+Lincoln,4/15/20,5
+Lincoln,5/15/20,17
+Lincoln,6/15/20,27
+Lincoln,7/15/20,22
+Lincoln,8/15/20,20
+Lincoln,9/15/20,22
+Lincoln,10/15/20,9
+Lincoln,11/15/20,8
+Lincoln,12/15/20,-2
+Tampa,1/15/20,22
+Tampa,2/15/20,19
+Tampa,3/15/20,24
+Tampa,4/15/20,27
+Tampa,5/15/20,26
+Tampa,6/15/20,29
+Tampa,7/15/20,31
+Tampa,8/15/20,31
+Tampa,9/15/20,29
+Tampa,10/15/20,27
+Tampa,11/15/20,25
+Tampa,12/15/20,18
+Worcester,1/15/20,4
+Worcester,2/15/20,-7
+Worcester,3/15/20,1
+Worcester,4/15/20,6
+Worcester,5/15/20,17
+Worcester,6/15/20,19
+Worcester,7/15/20,21
+Worcester,8/15/20,20
+Worcester,9/15/20,16
+Worcester,10/15/20,15
+Worcester,11/15/20,5
+Worcester,12/15/20,-4
+Northampton,1/15/20,6
+Northampton,2/15/20,11
+Northampton,3/15/20,8
+Northampton,4/15/20,11
+Northampton,5/15/20,11
+Northampton,6/15/20,18
+Northampton,7/15/20,15
+Northampton,8/15/20,18
+Northampton,9/15/20,21
+Northampton,10/15/20,9
+Northampton,11/15/20,9
+Northampton,12/15/20,7
+Cincinnati,1/15/20,10
+Cincinnati,2/15/20,-1
+Cincinnati,3/15/20,5
+Cincinnati,4/15/20,7
+Cincinnati,5/15/20,22
+Cincinnati,6/15/20,18
+Cincinnati,7/15/20,27
+Cincinnati,8/15/20,24
+Cincinnati,9/15/20,19
+Cincinnati,10/15/20,15
+Cincinnati,11/15/20,11
+Cincinnati,12/15/20,0
+Williamsburg,1/15/20,12
+Williamsburg,2/15/20,1
+Williamsburg,3/15/20,7
+Williamsburg,4/15/20,6
+Williamsburg,5/15/20,23
+Williamsburg,6/15/20,20
+Williamsburg,7/15/20,28
+Williamsburg,8/15/20,26
+Williamsburg,9/15/20,19
+Williamsburg,10/15/20,19
+Williamsburg,11/15/20,16
+Williamsburg,12/15/20,2
+Houghton,1/15/20,24
+Houghton,2/15/20,19
+Houghton,3/15/20,17
+Houghton,4/15/20,22
+Houghton,5/15/20,12
+Houghton,6/15/20,13
+Houghton,7/15/20,12
+Houghton,8/15/20,11
+Houghton,9/15/20,15
+Houghton,10/15/20,22
+Houghton,11/15/20,31
+Houghton,12/15/20,24
+Syracuse,1/15/20,3
+Syracuse,2/15/20,-9
+Syracuse,3/15/20,-1
+Syracuse,4/15/20,4
+Syracuse,5/15/20,16
+Syracuse,6/15/20,18
+Syracuse,7/15/20,23
+Syracuse,8/15/20,22
+Syracuse,9/15/20,14
+Syracuse,10/15/20,16
+Syracuse,11/15/20,7
+Syracuse,12/15/20,-4
+Lexington,1/15/20,12
+Lexington,2/15/20,0
+Lexington,3/15/20,4
+Lexington,4/15/20,6
+Lexington,5/15/20,20
+Lexington,6/15/20,16
+Lexington,7/15/20,25
+Lexington,8/15/20,24
+Lexington,9/15/20,18
+Lexington,10/15/20,16
+Lexington,11/15/20,10
+Lexington,12/15/20,0
+Albuquerque,1/15/20,6
+Albuquerque,2/15/20,8
+Albuquerque,3/15/20,13
+Albuquerque,4/15/20,9
+Albuquerque,5/15/20,21
+Albuquerque,6/15/20,26
+Albuquerque,7/15/20,28
+Albuquerque,8/15/20,29
+Albuquerque,9/15/20,24
+Albuquerque,10/15/20,19
+Albuquerque,11/15/20,10
+Albuquerque,12/15/20,-1
+Norman,1/15/20,13
+Norman,2/15/20,9
+Norman,3/15/20,9
+Norman,4/15/20,9
+Norman,5/15/20,24
+Norman,6/15/20,27
+Norman,7/15/20,33
+Norman,8/15/20,31
+Norman,9/15/20,23
+Norman,10/15/20,18
+Norman,11/15/20,12
+Norman,12/15/20,1
+Eugene,1/15/20,0
+Eugene,2/15/20,4
+Eugene,3/15/20,4
+Eugene,4/15/20,13
+Eugene,5/15/20,16
+Eugene,6/15/20,12
+Eugene,7/15/20,22
+Eugene,8/15/20,26
+Eugene,9/15/20,21
+Eugene,10/15/20,12
+Eugene,11/15/20,10
+Eugene,12/15/20,6
+Burlington,1/15/20,2
+Burlington,2/15/20,-5
+Burlington,3/15/20,-1
+Burlington,4/15/20,2
+Burlington,5/15/20,15
+Burlington,6/15/20,16
+Burlington,7/15/20,23
+Burlington,8/15/20,21
+Burlington,9/15/20,16
+Burlington,10/15/20,14
+Burlington,11/15/20,8
+Burlington,12/15/20,-2
+Hoboken,1/15/20,8
+Hoboken,2/15/20,-3
+Hoboken,3/15/20,8
+Hoboken,4/15/20,9
+Hoboken,5/15/20,23
+Hoboken,6/15/20,21
+Hoboken,7/15/20,26
+Hoboken,8/15/20,26
+Hoboken,9/15/20,18
+Hoboken,10/15/20,20
+Hoboken,11/15/20,12
+Hoboken,12/15/20,1
+Richmond,1/15/20,13
+Richmond,2/15/20,2
+Richmond,3/15/20,7
+Richmond,4/15/20,7
+Richmond,5/15/20,24
+Richmond,6/15/20,21
+Richmond,7/15/20,30
+Richmond,8/15/20,25
+Richmond,9/15/20,19
+Richmond,10/15/20,19
+Richmond,11/15/20,15
+Richmond,12/15/20,2
+Potsdam,1/15/20,9
+Potsdam,2/15/20,7
+Potsdam,3/15/20,7
+Potsdam,4/15/20,9
+Potsdam,5/15/20,11
+Potsdam,6/15/20,22
+Potsdam,7/15/20,17
+Potsdam,8/15/20,23
+Potsdam,9/15/20,25
+Potsdam,10/15/20,11
+Potsdam,11/15/20,12
+Potsdam,12/15/20,6
+Albany,1/15/20,4
+Albany,2/15/20,-9
+Albany,3/15/20,1
+Albany,4/15/20,7
+Albany,5/15/20,16
+Albany,6/15/20,20
+Albany,7/15/20,23
+Albany,8/15/20,24
+Albany,9/15/20,14
+Albany,10/15/20,16
+Albany,11/15/20,5
+Albany,12/15/20,-3
+Orlando,1/15/20,24
+Orlando,2/15/20,20
+Orlando,3/15/20,25
+Orlando,4/15/20,28
+Orlando,5/15/20,25
+Orlando,6/15/20,28
+Orlando,7/15/20,31
+Orlando,8/15/20,31
+Orlando,9/15/20,29
+Orlando,10/15/20,28
+Orlando,11/15/20,26
+Orlando,12/15/20,20
+Auburn,1/15/20,19
+Auburn,2/15/20,8
+Auburn,3/15/20,20
+Auburn,4/15/20,13
+Auburn,5/15/20,24
+Auburn,6/15/20,26
+Auburn,7/15/20,30
+Auburn,8/15/20,27
+Auburn,9/15/20,22
+Auburn,10/15/20,24
+Auburn,11/15/20,17
+Auburn,12/15/20,9
+Binghamton,1/15/20,4
+Binghamton,2/15/20,-9
+Binghamton,3/15/20,0
+Binghamton,4/15/20,3
+Binghamton,5/15/20,17
+Binghamton,6/15/20,18
+Binghamton,7/15/20,22
+Binghamton,8/15/20,20
+Binghamton,9/15/20,14
+Binghamton,10/15/20,17
+Binghamton,11/15/20,6
+Binghamton,12/15/20,-4
+Clemson,1/15/20,17
+Clemson,2/15/20,4
+Clemson,3/15/20,13
+Clemson,4/15/20,13
+Clemson,5/15/20,20
+Clemson,6/15/20,19
+Clemson,7/15/20,30
+Clemson,8/15/20,28
+Clemson,9/15/20,22
+Clemson,10/15/20,20
+Clemson,11/15/20,15
+Clemson,12/15/20,6
+Fairfax,1/15/20,11
+Fairfax,2/15/20,1
+Fairfax,3/15/20,7
+Fairfax,4/15/20,8
+Fairfax,5/15/20,23
+Fairfax,6/15/20,21
+Fairfax,7/15/20,29
+Fairfax,8/15/20,22
+Fairfax,9/15/20,20
+Fairfax,10/15/20,19
+Fairfax,11/15/20,13
+Fairfax,12/15/20,1
+Indianapolis,1/15/20,7
+Indianapolis,2/15/20,-3
+Indianapolis,3/15/20,4
+Indianapolis,4/15/20,4
+Indianapolis,5/15/20,20
+Indianapolis,6/15/20,19
+Indianapolis,7/15/20,26
+Indianapolis,8/15/20,27
+Indianapolis,9/15/20,19
+Indianapolis,10/15/20,13
+Indianapolis,11/15/20,9
+Indianapolis,12/15/20,-1
+Manhattan,1/15/20,1
+Manhattan,2/15/20,6
+Manhattan,3/15/20,4
+Manhattan,4/15/20,7
+Manhattan,5/15/20,19
+Manhattan,6/15/20,27
+Manhattan,7/15/20,25
+Manhattan,8/15/20,23
+Manhattan,9/15/20,22
+Manhattan,10/15/20,12
+Manhattan,11/15/20,10
+Manhattan,12/15/20,0
+Baton Rouge,1/15/20,22
+Baton Rouge,2/15/20,11
+Baton Rouge,3/15/20,24
+Baton Rouge,4/15/20,14
+Baton Rouge,5/15/20,25
+Baton Rouge,6/15/20,28
+Baton Rouge,7/15/20,30
+Baton Rouge,8/15/20,30
+Baton Rouge,9/15/20,26
+Baton Rouge,10/15/20,25
+Baton Rouge,11/15/20,19
+Baton Rouge,12/15/20,10
+Stillwater,1/15/20,11
+Stillwater,2/15/20,9
+Stillwater,3/15/20,8
+Stillwater,4/15/20,10
+Stillwater,5/15/20,23
+Stillwater,6/15/20,27
+Stillwater,7/15/20,31
+Stillwater,8/15/20,30
+Stillwater,9/15/20,24
+Stillwater,10/15/20,16
+Stillwater,11/15/20,11
+Stillwater,12/15/20,0
+Dallas,1/15/20,21
+Dallas,2/15/20,10
+Dallas,3/15/20,19
+Dallas,4/15/20,15
+Dallas,5/15/20,26
+Dallas,6/15/20,30
+Dallas,7/15/20,33
+Dallas,8/15/20,36
+Dallas,9/15/20,27
+Dallas,10/15/20,23
+Dallas,11/15/20,18
+Dallas,12/15/20,8
+Lubbock,1/15/20,12
+Lubbock,2/15/20,11
+Lubbock,3/15/20,11
+Lubbock,4/15/20,9
+Lubbock,5/15/20,27
+Lubbock,6/15/20,26
+Lubbock,7/15/20,33
+Lubbock,8/15/20,30
+Lubbock,9/15/20,22
+Lubbock,10/15/20,16
+Lubbock,11/15/20,11
+Lubbock,12/15/20,3
+Tuscaloosa,1/15/20,20
+Tuscaloosa,2/15/20,8
+Tuscaloosa,3/15/20,17
+Tuscaloosa,4/15/20,12
+Tuscaloosa,5/15/20,24
+Tuscaloosa,6/15/20,26
+Tuscaloosa,7/15/20,32
+Tuscaloosa,8/15/20,29
+Tuscaloosa,9/15/20,24
+Tuscaloosa,10/15/20,23
+Tuscaloosa,11/15/20,17
+Tuscaloosa,12/15/20,8
+West Hartford,1/15/20,6
+West Hartford,2/15/20,-5
+West Hartford,3/15/20,5
+West Hartford,4/15/20,8
+West Hartford,5/15/20,20
+West Hartford,6/15/20,22
+West Hartford,7/15/20,24
+West Hartford,8/15/20,24
+West Hartford,9/15/20,18
+West Hartford,10/15/20,18
+West Hartford,11/15/20,8
+West Hartford,12/15/20,-1
+Oxford,1/15/20,4
+Oxford,2/15/20,8
+Oxford,3/15/20,8
+Oxford,4/15/20,12
+Oxford,5/15/20,10
+Oxford,6/15/20,18
+Oxford,7/15/20,12
+Oxford,8/15/20,18
+Oxford,9/15/20,19
+Oxford,10/15/20,8
+Oxford,11/15/20,8
+Oxford,12/15/20,6
+Kansas City,1/15/20,5
+Kansas City,2/15/20,3
+Kansas City,3/15/20,4
+Kansas City,4/15/20,7
+Kansas City,5/15/20,20
+Kansas City,6/15/20,26
+Kansas City,7/15/20,26
+Kansas City,8/15/20,23
+Kansas City,9/15/20,21
+Kansas City,10/15/20,12
+Kansas City,11/15/20,10
+Kansas City,12/15/20,0
+San Antonio,1/15/20,22
+San Antonio,2/15/20,13
+San Antonio,3/15/20,22
+San Antonio,4/15/20,16
+San Antonio,5/15/20,26
+San Antonio,6/15/20,28
+San Antonio,7/15/20,32
+San Antonio,8/15/20,35
+San Antonio,9/15/20,28
+San Antonio,10/15/20,28
+San Antonio,11/15/20,20
+San Antonio,12/15/20,12
+Tulsa,1/15/20,13
+Tulsa,2/15/20,8
+Tulsa,3/15/20,9
+Tulsa,4/15/20,11
+Tulsa,5/15/20,23
+Tulsa,6/15/20,27
+Tulsa,7/15/20,33
+Tulsa,8/15/20,30
+Tulsa,9/15/20,24
+Tulsa,10/15/20,17
+Tulsa,11/15/20,12
+Tulsa,12/15/20,1
+Milwaukee,1/15/20,-1
+Milwaukee,2/15/20,-5
+Milwaukee,3/15/20,0
+Milwaukee,4/15/20,1
+Milwaukee,5/15/20,18
+Milwaukee,6/15/20,16
+Milwaukee,7/15/20,24
+Milwaukee,8/15/20,24
+Milwaukee,9/15/20,19
+Milwaukee,10/15/20,9
+Milwaukee,11/15/20,3
+Milwaukee,12/15/20,-4
+Laramie,1/15/20,-10
+Laramie,2/15/20,-5
+Laramie,3/15/20,5
+Laramie,4/15/20,-1
+Laramie,5/15/20,9
+Laramie,6/15/20,18
+Laramie,7/15/20,20
+Laramie,8/15/20,23
+Laramie,9/15/20,19
+Laramie,10/15/20,2
+Laramie,11/15/20,0
+Laramie,12/15/20,-7
+Morgantown,1/15/20,9
+Morgantown,2/15/20,-2
+Morgantown,3/15/20,4
+Morgantown,4/15/20,4
+Morgantown,5/15/20,21
+Morgantown,6/15/20,18
+Morgantown,7/15/20,27
+Morgantown,8/15/20,19
+Morgantown,9/15/20,19
+Morgantown,10/15/20,16
+Morgantown,11/15/20,9
+Morgantown,12/15/20,-2
+Waco,1/15/20,21
+Waco,2/15/20,10
+Waco,3/15/20,21
+Waco,4/15/20,11
+Waco,5/15/20,26
+Waco,6/15/20,28
+Waco,7/15/20,32
+Waco,8/15/20,36
+Waco,9/15/20,26
+Waco,10/15/20,25
+Waco,11/15/20,16
+Waco,12/15/20,10
+Provo,1/15/20,-4
+Provo,2/15/20,0
+Provo,3/15/20,7
+Provo,4/15/20,4
+Provo,5/15/20,13
+Provo,6/15/20,17
+Provo,7/15/20,25
+Provo,8/15/20,25
+Provo,9/15/20,23
+Provo,10/15/20,10
+Provo,11/15/20,6
+Provo,12/15/20,-4
+Boca Raton,1/15/20,24
+Boca Raton,2/15/20,24
+Boca Raton,3/15/20,25
+Boca Raton,4/15/20,29
+Boca Raton,5/15/20,24
+Boca Raton,6/15/20,29
+Boca Raton,7/15/20,30
+Boca Raton,8/15/20,30
+Boca Raton,9/15/20,30
+Boca Raton,10/15/20,29
+Boca Raton,11/15/20,27
+Boca Raton,12/15/20,24
+Kent,1/15/20,-3
+Kent,2/15/20,6
+Kent,3/15/20,2
+Kent,4/15/20,15
+Kent,5/15/20,16
+Kent,6/15/20,13
+Kent,7/15/20,24
+Kent,8/15/20,25
+Kent,9/15/20,24
+Kent,10/15/20,13
+Kent,11/15/20,9
+Kent,12/15/20,6
+Starkville,1/15/20,20
+Starkville,2/15/20,6
+Starkville,3/15/20,14
+Starkville,4/15/20,10
+Starkville,5/15/20,23
+Starkville,6/15/20,26
+Starkville,7/15/20,31
+Starkville,8/15/20,29
+Starkville,9/15/20,25
+Starkville,10/15/20,22
+Starkville,11/15/20,16
+Starkville,12/15/20,6
+Flagstaff,1/15/20,3
+Flagstaff,2/15/20,4
+Flagstaff,3/15/20,6
+Flagstaff,4/15/20,8
+Flagstaff,5/15/20,16
+Flagstaff,6/15/20,20
+Flagstaff,7/15/20,25
+Flagstaff,8/15/20,28
+Flagstaff,9/15/20,21
+Flagstaff,10/15/20,20
+Flagstaff,11/15/20,11
+Flagstaff,12/15/20,-1
+Portland,1/15/20,-1
+Portland,2/15/20,5
+Portland,3/15/20,2
+Portland,4/15/20,15
+Portland,5/15/20,17
+Portland,6/15/20,14
+Portland,7/15/20,23
+Portland,8/15/20,27
+Portland,9/15/20,21
+Portland,10/15/20,14
+Portland,11/15/20,10
+Portland,12/15/20,7
+Arlington,1/15/20,21
+Arlington,2/15/20,10
+Arlington,3/15/20,20
+Arlington,4/15/20,13
+Arlington,5/15/20,26
+Arlington,6/15/20,29
+Arlington,7/15/20,32
+Arlington,8/15/20,36
+Arlington,9/15/20,27
+Arlington,10/15/20,23
+Arlington,11/15/20,18
+Arlington,12/15/20,9
+Fayetteville,1/15/20,19
+Fayetteville,2/15/20,4
+Fayetteville,3/15/20,10
+Fayetteville,4/15/20,9
+Fayetteville,5/15/20,22
+Fayetteville,6/15/20,19
+Fayetteville,7/15/20,30
+Fayetteville,8/15/20,28
+Fayetteville,9/15/20,22
+Fayetteville,10/15/20,21
+Fayetteville,11/15/20,20
+Fayetteville,12/15/20,5
+Missoula,1/15/20,-10
+Missoula,2/15/20,-2
+Missoula,3/15/20,-8
+Missoula,4/15/20,2
+Missoula,5/15/20,8
+Missoula,6/15/20,10
+Missoula,7/15/20,20
+Missoula,8/15/20,22
+Missoula,9/15/20,21
+Missoula,10/15/20,4
+Missoula,11/15/20,-1
+Missoula,12/15/20,-3
+Charlotte,1/15/20,17
+Charlotte,2/15/20,4
+Charlotte,3/15/20,11
+Charlotte,4/15/20,11
+Charlotte,5/15/20,21
+Charlotte,6/15/20,17
+Charlotte,7/15/20,30
+Charlotte,8/15/20,29
+Charlotte,9/15/20,22
+Charlotte,10/15/20,20
+Charlotte,11/15/20,17
+Charlotte,12/15/20,5
+Denton,1/15/20,20
+Denton,2/15/20,10
+Denton,3/15/20,17
+Denton,4/15/20,11
+Denton,5/15/20,25
+Denton,6/15/20,28
+Denton,7/15/20,32
+Denton,8/15/20,32
+Denton,9/15/20,25
+Denton,10/15/20,21
+Denton,11/15/20,14
+Denton,12/15/20,8
+Kingston,1/15/20,5
+Kingston,2/15/20,-6
+Kingston,3/15/20,3
+Kingston,4/15/20,7
+Kingston,5/15/20,19
+Kingston,6/15/20,20
+Kingston,7/15/20,23
+Kingston,8/15/20,23
+Kingston,9/15/20,15
+Kingston,10/15/20,16
+Kingston,11/15/20,5
+Kingston,12/15/20,-2
+San Francisco,1/15/20,9
+San Francisco,2/15/20,15
+San Francisco,3/15/20,10
+San Francisco,4/15/20,18
+San Francisco,5/15/20,16
+San Francisco,6/15/20,17
+San Francisco,7/15/20,18
+San Francisco,8/15/20,23
+San Francisco,9/15/20,20
+San Francisco,10/15/20,26
+San Francisco,11/15/20,14
+San Francisco,12/15/20,11
+Mobile,1/15/20,22
+Mobile,2/15/20,11
+Mobile,3/15/20,24
+Mobile,4/15/20,16
+Mobile,5/15/20,22
+Mobile,6/15/20,29
+Mobile,7/15/20,31
+Mobile,8/15/20,30
+Mobile,9/15/20,25
+Mobile,10/15/20,26
+Mobile,11/15/20,21
+Mobile,12/15/20,11
+El Paso,1/15/20,14
+El Paso,2/15/20,14
+El Paso,3/15/20,18
+El Paso,4/15/20,15
+El Paso,5/15/20,25
+El Paso,6/15/20,28
+El Paso,7/15/20,32
+El Paso,8/15/20,33
+El Paso,9/15/20,25
+El Paso,10/15/20,22
+El Paso,11/15/20,16
+El Paso,12/15/20,7
+Stockton,1/15/20,8
+Stockton,2/15/20,15
+Stockton,3/15/20,9
+Stockton,4/15/20,21
+Stockton,5/15/20,21
+Stockton,6/15/20,25
+Stockton,7/15/20,30
+Stockton,8/15/20,35
+Stockton,9/15/20,28
+Stockton,10/15/20,28
+Stockton,11/15/20,16
+Stockton,12/15/20,10
+Logan,1/15/20,-10
+Logan,2/15/20,-7
+Logan,3/15/20,3
+Logan,4/15/20,0
+Logan,5/15/20,6
+Logan,6/15/20,13
+Logan,7/15/20,20
+Logan,8/15/20,27
+Logan,9/15/20,22
+Logan,10/15/20,2
+Logan,11/15/20,-4
+Logan,12/15/20,-12
+Kalamazoo,1/15/20,1
+Kalamazoo,2/15/20,-6
+Kalamazoo,3/15/20,2
+Kalamazoo,4/15/20,2
+Kalamazoo,5/15/20,18
+Kalamazoo,6/15/20,16
+Kalamazoo,7/15/20,23
+Kalamazoo,8/15/20,23
+Kalamazoo,9/15/20,15
+Kalamazoo,10/15/20,10
+Kalamazoo,11/15/20,6
+Kalamazoo,12/15/20,-3
+Terre Haute,1/15/20,8
+Terre Haute,2/15/20,-3
+Terre Haute,3/15/20,4
+Terre Haute,4/15/20,4
+Terre Haute,5/15/20,21
+Terre Haute,6/15/20,17
+Terre Haute,7/15/20,24
+Terre Haute,8/15/20,24
+Terre Haute,9/15/20,17
+Terre Haute,10/15/20,13
+Terre Haute,11/15/20,9
+Terre Haute,12/15/20,0
