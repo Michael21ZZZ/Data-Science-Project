@@ -26,7 +26,7 @@ This is a group final project for Data Focused Python. The presentation video is
 - Scraped web data about cost of living in US cities with BeautifulSoup and conducted data merging and data cleaning
 - Implemented the filter function based on rank, living cost and location
 
-### [Graduate School Admission]()(R|Data Visualization|Machine Learning)
+### [Graduate School Admission](https://rpubs.com/Michael_Zhang/856263)(R|Data Visualization|Machine Learning)
 In the process of applying to graduate school, various indicators of the applicant will have an impact on the probability of admission, and will also determine the relative position of the applicant among the candidates. Based on graduate admission data from Kaggle, this project analyzes the importance ranking of admission indicators, and divides the degree of excellence of applicants. 
 
 This is a individual final project for Multivariable Statistics Analysis. In this project, I mainly accomplish:
